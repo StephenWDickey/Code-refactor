@@ -17,6 +17,6 @@ In this challenge we:
 ## Credits
 
 StephenWDickey
-GitHub page: 
+GitHub page: https://github.com/StephenWDickey
 
 ## License
